@@ -17,7 +17,7 @@ author:
   - name: "Jinha Choi"
   - name: "Gonçalo Paulo"
   - name: "Youngjae Yu"
-
+  - name: "Stella Biderman"
 
 
 
