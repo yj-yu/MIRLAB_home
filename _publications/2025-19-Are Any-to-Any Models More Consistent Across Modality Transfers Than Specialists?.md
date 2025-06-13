@@ -16,10 +16,12 @@ author:
   - name: "Youngjae Yu"
 
 
-external:
-  
 
-img: /images/papers/comingsoon.jpg
+external:
+  - title: Arxiv
+    url: https://arxiv.org/abs/2505.24211
+  
+img: /images/papers/acon.png
 
 keywords:
   - name: Multimodal
