@@ -10,7 +10,7 @@ email:
 
 social:
   - title: home
-    url: people/jaeyoung.html
+    url: https://jaeyoung-l.github.io
 
 fields:
     
